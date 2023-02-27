@@ -1,0 +1,34 @@
+ .container {
+  margin-top: 50px;
+}
+
+.pregunta-container {
+  margin-bottom: 20px;
+}
+
+.respuesta-label {
+  font-weight: normal;
+  margin-left: 5px;
+}
+
+.respuesta-input {
+  margin-top: 5px;
+}
+
+.respuesta-input:last-child {
+  margin-bottom: 15px;
+}
+
+.respuesta-input:focus {
+  box-shadow: none;
+}
+
+.respuesta-correcta {
+  color: green;
+  font-weight: bold;
+}
+
+.respuesta-incorrecta {
+  color: red;
+  font-weight: bold;
+}
