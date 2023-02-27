@@ -418,26 +418,5 @@
                 "correcta": false
             }
         ]
-    },
-    {
-        "pregunta": "",
-        "respuestas": [
-            {
-                "texto": "",
-                "correcta": false
-            },
-            {
-                "texto": "",
-                "correcta": false
-            },
-            {
-                "texto": "",
-                "correcta": false
-            },
-            {
-                "texto": "",
-                "correcta": false
-            }
-        ]
     }
 ]
