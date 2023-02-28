@@ -243,7 +243,7 @@
     },
     {
         "id": 12,
-        "pregunta": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, las personas pacientes y usuarias del Sistema Sanitario de Euskadi, en relación con la asisten¬cia sanitaria específica referida al final de la vida, tienen derecho a:",
+        "pregunta": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, las personas pacientes y usuarias del Sistema Sanitario de Euskadi, en relación con la asistencia sanitaria específica referida al final de la vida, tienen derecho a:",
         "respuestas": [
             {
                 "texto": "Obtener información veraz sobre las opciones terapéuticas y a que se respete y acate su voluntad de aceptación o rechazo de cualquiera de ellas, siempre que se exprese de forma directa o en forma de voluntades anticipadas.",
@@ -436,6 +436,226 @@
             {
                 "texto": "Informada.",
                 "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "pregunta": "Con relación al tratamiento de los datos personales de un menor de edad, señale la respuesta correcta",
+        "respuestas": [
+            {
+                "texto": "Únicmente podrá fundarse en su consentimiento cuando sea mayor de dieciséis años.",
+                "correcta": false
+            },
+            {
+                "texto": "La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales no prevé que los menores de edad puedan dar su consentimiento válidamente a estos efectos.",
+                "correcta": false
+            },
+            {
+                "texto": "Únicamente podrá fundarse en su consentimiento cuando sea mayor de catorce años.",
+                "correcta": true
+            },
+            {
+                "texto": "El tratamiento de los datos de los menores de dieciséis años, fundado en el consentimiento, solo será lícito si consta el consentimiento de los progenitores, con el alcance que estos determinen.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "pregunta": "Señale la respuesta correcta. La Ley 4/2005, de 18 de febrero, para la igualdad de Mujeres y Hombres y vidas libres de violencias machistas contra las mujeres:",
+        "respuestas": [
+            {
+                "texto": "No contempla las medidas de acción positiva",
+                "correcta": false
+            },
+            {
+                "texto": "No considera constitutivas de discriminación por razón de sexo las medidas de acción positiva.",
+                "correcta": true
+            },
+            {
+                "texto": "Solo prohíbe expresamente la discriminación directa.",
+                "correcta": false
+            },
+            {
+                "texto": "Afirma que las medidas de acción positiva no tienen carácter temporal.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "pregunta": "Conforme a la Ley 4/2005, de 18 de febrero, para la igualdad de Mujeres y Hombres y vidas libres de violencias machistas contra las mujeres, se considera que existe una representación equilibrada cuando en los órganos de más de cuatro miembros las personas de cada sexo están representadas al menos al:",
+        "respuestas": [
+            {
+                "texto": "40%",
+                "correcta": true
+            },
+            {
+                "texto": "50%",
+                "correcta": false
+            },
+            {
+                "texto": "30%",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguna de las respuestas anteriores es correcta.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "pregunta": "Señale la respuesta correcta. Conforme a la Ley 4/2005, de 18 de febrero, para la igualdad de Mujeres y Hombres y vidas libres de violencias machistas contra las mujeres:",
+        "respuestas": [
+            {
+                "texto": "Ante las denuncias de acoso sexual y acoso por razón de sexo los poderes públicos vascos actuarán de oficio",
+                "correcta": true
+            },
+            {
+                "texto": "Solo se contempla el acoso por razón de sexo",
+                "correcta": false
+            },
+            {
+                "texto": "Solo se define el acoso sexual.",
+                "correcta": false
+            },
+            {
+                "texto": "Ante las denuncias de acoso sexual los poderes públicos vascos actuarán solo y siempre a instancia de parte.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "pregunta": "El Marco Estratégico del Departamento de Salud 2021-2024, se basa en la siguiente razón fundamental :",
+        "respuestas": [
+            {
+                "texto": "Salud Universal.",
+                "correcta": false
+            },
+            {
+                "texto": "Una salud sin desigualdades y más cercana, al servicio de las personas.",
+                "correcta": true
+            },
+            {
+                "texto": "Salud pública.",
+                "correcta": false
+            },
+            {
+                "texto": "Son correctas las respuestas a) y b).",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "pregunta": "El Marco Estratégico del Departamento de Salud 2021-2024:",
+        "respuestas": [
+            {
+                "texto": "Contempla 2 razones fundamentales y 6 elementos instrumentales para desarrollarlas y consolidarlas.",
+                "correcta": true
+            },
+            {
+                "texto": "Contempla 2 razones fundamentales y 5 elementos instrumentales para desarrollarlas y consolidarlas.",
+                "correcta": false
+            },
+            {
+                "texto": "Contempla 6 razones fundamentales y 2 elementos instrumentales para desarrollarlas y consolidarlas.",
+                "correcta": false
+            },
+            {
+                "texto": "Contempla 3 razones fundamentales y 6 elementos instrumentales para desarrollarlas y consolidarlas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "pregunta": "El Marco Estratégico del Departamento de Salud 2021-2024, prevé que se creará un Comité Permanente para Asuntos Epidemiológicos cuya función es:",
+        "respuestas": [
+            {
+                "texto": "Mantener y mejorar la calidad, eficacia y eficiencia del sistema de salud, así como sus características de público y universal.",
+                "correcta": false
+            },
+            {
+                "texto": "Mejorar el bienestar de las personas y la equidad en salud.",
+                "correcta": false
+            },
+            {
+                "texto": "Garantizar que las actuaciones en Salud Pública estén alineadas con las estrategias europeas en esta materia.",
+                "correcta": true
+            },
+            {
+                "texto": "Dar una respuesta rápida a las nuevas amenazas de salud pública.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "pregunta": "Conforme se contempla en el Marco Estratégico del Departamento de Salud 2021-2024 ante situaciones de nuevos brotes de la pandemia Covid se considera fundamental garantizar el rastreo de todos los positivos:",
+        "respuestas": [
+            {
+                "texto": "Preferentemente en las primeras 24 horas a partir del diagnóstico.",
+                "correcta": true
+            },
+            {
+                "texto": "Preferentemente en las primeras 48 horas a partir del diagnóstico.",
+                "correcta": false
+            },
+            {
+                "texto": "Preferentemente en las primeras 72 horas a partir del diagnóstico.",
+                "correcta": false
+            },
+            {
+                "texto": "Siempre en las primeras 12 horas a partir del diagnóstico.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "pregunta": "Según lo previsto en el Marco Estratégico del Departamento de Salud 2021-2024:",
+        "respuestas": [
+            {
+                "texto": "Desde el punto de vista organizacional, se establecerá un servicio de atención a la transexualidad en cada Territorio Histórico.",
+                "correcta": true
+            },
+            {
+                "texto": "Los servicios sanitarios penitenciarios son centros de salud especializada.",
+                "correcta": false
+            },
+            {
+                "texto": "En Euskadi, los programas de cribado de cáncer de mama y de cérvix se encuentran entre los de mayor cobertura y participación.",
+                "correcta": false
+            },
+            {
+                "texto": " Dentro de la cartera de servicios se incluye el programa de cribado prenatal de anomalías cromosómicas, que utiliza un test combinado en el segundo trimestre de embarazo.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "pregunta": "Conforme a lo previsto en el Marco Estratégico del Departamento de Salud 2021-2024 las enfermedades neurodegenerativas y neuromusculares son:",
+        "respuestas": [
+            {
+                "texto": "Crónicas.",
+                "correcta": false
+            },
+            {
+                "texto": "Progresivas.",
+                "correcta": false
+            },
+            {
+                "texto": "Incurables.",
+                "correcta": false
+            },
+            {
+                "texto": "Son correctas todas las anteriores respuestas.",
+                "correcta": true
             }
         ]
     }
