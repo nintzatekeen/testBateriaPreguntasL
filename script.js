@@ -1,4 +1,5 @@
 // Carga las preguntas desde el archivo preguntas.json
+var QUESTIONS = [];
 
 function shuffleArray(array) {
   // Crea una copia del array original
@@ -18,62 +19,86 @@ function shuffleArray(array) {
   return shuffledArray;
 }
 
-
-$.getJSON('preguntas.json', function (preguntas) {
-
-  // Ordena las preguntas de forma aleatoria
-  /*preguntas.sort(function() {
+window.onload = () => {
+  $.getJSON("preguntas.json", function (preguntas) {
+    // Ordena las preguntas de forma aleatoria
+    /*preguntas.sort(function() {
     return 0.5 - Math.random();
   });*/
-  preguntas = shuffleArray(preguntas);
+    QUESTIONS = shuffleArray(preguntas);
 
-
-  // Crea el HTML para cada pregunta
-  var preguntasHtml = '';
-  preguntas.forEach(function (pregunta, indice) {
-    preguntasHtml += '<div class="pregunta-container">';
-    preguntasHtml += '<h4>' + (indice + 1) + '. ' + pregunta.pregunta + '</h4>';
-    pregunta.respuestas.forEach(function (respuesta, ind) {
-      preguntasHtml += '<div class="form-check">';
-      preguntasHtml += '<input class="form-check-input respuesta-input" type="radio" name="pregunta-' + indice + '" id="pregunta-' + ind + '-' + respuesta.texto + '" value="' + respuesta.texto + '">';
-      preguntasHtml += '<label class="form-check-label respuesta-label" for="pregunta-' + ind + '-' + respuesta.texto + '">' + respuesta.texto + '</label>';
-      preguntasHtml += '</div>';
-    });
-    preguntasHtml += '</div>';
-  });
-
-  // Agrega las preguntas al contenedor
-  $('#preguntas-container').html(preguntasHtml);
-
-});
-
-// Maneja el evento del botón de enviar respuestas
-$('#submit-btn').on('click', function () {
-
-  // Obtiene las respuestas seleccionadas por el usuario
-  var respuestasSeleccionadas = $('input:checked').map(function () {
-    return $(this).val();
-  }).get();
-
-  // Carga las preguntas desde el archivo preguntas.json
-  $.getJSON('preguntas.json', function (preguntas) {
-
-    var puntaje = 0;
-
-    // Compara las respuestas seleccionadas con las correctas
-    preguntas.forEach(function (pregunta) {
-      pregunta.respuestas.forEach(function (respuesta) {
-        if (respuesta.correcta && respuestasSeleccionadas.includes(respuesta.texto)) {
-          puntaje++;
-        } else if (!respuesta.correcta && respuestasSeleccionadas.includes(respuesta.texto)) {
-          puntaje--;
-        }
+    // Crea el HTML para cada pregunta
+    var preguntasHtml = "";
+      QUESTIONS.forEach(function (pregunta, indice) {
+      preguntasHtml += '<div class="pregunta-container" id="wea-'+pregunta.id+'">';
+      preguntasHtml +=
+        "<h4>" + (indice + 1) + ". " + pregunta.pregunta + "</h4>";
+      pregunta.respuestas.forEach(function (respuesta, ind) {
+        preguntasHtml += '<div class="form-check">';
+        preguntasHtml +=
+          '<input class="form-check-input respuesta-input" data-num="' +
+          pregunta.id +
+          '" type="radio" name="pregunta-' +
+          indice +
+          '" id="pregunta-' +
+          indice +
+          "-" +
+          ind +
+          '" value="' +
+          respuesta.texto +
+          '">';
+        preguntasHtml +=
+          '<label class="form-check-label respuesta-label" for="pregunta-' +
+          indice +
+          "-" +
+          ind +
+          '">' +
+          respuesta.texto +
+          "</label>";
+        preguntasHtml += "</div>";
       });
+      preguntasHtml += "</div>";
     });
 
-    // Muestra el puntaje en un alert
-    alert('Obtuviste ' + puntaje + ' puntos de ' + preguntas.length);
-
+    // Agrega las preguntas al contenedor
+    $("#preguntas-container").html(preguntasHtml);
   });
 
-});
+  $("#submit-btn").on("click", function () {
+    
+    var respuestasSeleccionadas = [];
+    [...$("input:checked")].forEach((inp) => {
+      respuestasSeleccionadas.push({ id: inp.dataset.num, resp: inp.value });
+    });
+
+      var puntaje = 0;
+
+      // Compara las respuestas seleccionadas con las correctas
+        QUESTIONS.forEach(function (pregunta) {
+        let selec = respuestasSeleccionadas.filter((r) => r.id == pregunta.id)[0];
+        let elemPreg = $("#wea-"+pregunta.id)[0];
+        let elemPregH4 = elemPreg.querySelector("h4");
+        if (
+          selec &&
+          selec.resp ==
+            pregunta.respuestas.filter((resp) => resp.correcta)[0].texto
+        ) {
+          elemPregH4.style.color = "green";
+          puntaje++;
+        } else {
+          elemPregH4.style.color = "red";
+        }
+
+        // pregunta.respuestas.forEach(function (respuesta) {
+        //   if (respuesta.correcta && respuestasSeleccionadas.includes(respuesta.texto)) {
+        //     puntaje++;
+        //   } else if (!respuesta.correcta && respuestasSeleccionadas.includes(respuesta.texto)) {
+        //     // puntaje--;
+        //   }
+        // });
+      });
+
+      // Muestra el puntaje en un alert
+      alert("Obtuviste " + puntaje + " puntos de " + QUESTIONS.length);
+  });
+};
