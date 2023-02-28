@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "pregunta": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, son titulares de los derechos y deberes recogidos en esta Declaración:",
         "respuestas": [
             {
@@ -21,6 +22,7 @@
         ]
     },
     {
+        "id": 2,
         "pregunta": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, todos los derechos y obligaciones establecidos son exigibles:",
         "respuestas": [
             {
@@ -42,6 +44,7 @@
         ]
     },
     {
+        "id": 3,
         "pregunta": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, los principios que informan e inspiran el conjunto de acciones de carácter sanitario que se desarrollen en el sistema sanitario de Euskadi son:",
         "respuestas": [
             {
@@ -63,6 +66,7 @@
         ]
     },
     {
+        "id": 4,
         "pregunta": "El Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, distingue bloques de derechos relacionados con los siguientes ámbitos:",
         "respuestas": [
             {
@@ -84,6 +88,7 @@
         ]
     },
     {
+        "id": 5,
         "pregunta": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, corresponde a la persona paciente o usuaria del sistema sanitario de Euskadi:",
         "respuestas": [
             {
@@ -105,6 +110,7 @@
         ]
     },
     {
+        "id": 6,
         "pregunta": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, la persona paciente o usuaria tiene derecho:",
         "respuestas": [
             {
@@ -126,6 +132,7 @@
         ]
     },
     {
+        "id": 7,
         "pregunta": "El derecho a la participación de forma activa en las actuaciones del sistema sanitario de Eukadi:",
         "respuestas": [
             {
@@ -147,6 +154,7 @@
         ]
     },
     {
+        "id": 8,
         "pregunta": "A los efectos de la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi recogida en el Decreto 147/2015, de 21 de julio, se configuran las siguientes fases de la vida en las que se concretan necesidades específicas:",
         "respuestas": [
             {
@@ -168,6 +176,7 @@
         ]
     },
     {
+        "id": 9,
         "pregunta": "En la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi recogida en el Decreto 147/2015, de 21 de julio, se identifican los siguientes colectivos vulnerables:",
         "respuestas": [
             {
@@ -189,6 +198,7 @@
         ]
     },
     {
+        "id": 10,
         "pregunta": "- Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, los niños y niñas y las personas adolescentes, en su condición de pacientes y usuarias del Sistema Sanitario de Euskadi, tienen derecho:",
         "respuestas": [
             {
@@ -210,6 +220,7 @@
         ]
     },
     {
+        "id": 11,
         "pregunta": "En el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, se reconoce expresamente el derecho a:",
         "respuestas": [
             {
@@ -231,6 +242,7 @@
         ]
     },
     {
+        "id": 12,
         "pregunta": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, las personas pacientes y usuarias del Sistema Sanitario de Euskadi, en relación con la asisten¬cia sanitaria específica referida al final de la vida, tienen derecho a:",
         "respuestas": [
             {
@@ -252,6 +264,7 @@
         ]
     },
     {
+        "id": 13,
         "pregunta": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, las personas pacientes y usuarias del Sistema Sanitario de Euskadi, en relación con la asistencia sanitaria específica referida al final de la vida, tienen derecho a:",
         "respuestas": [
             {
@@ -273,6 +286,7 @@
         ]
     },
     {
+        "id": 14,
         "pregunta": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, la posesión de la tarjeta individual sanitaria permite el derecho a:",
         "respuestas": [
             {
@@ -294,6 +308,7 @@
         ]
     },
     {
+        "id": 15,
         "pregunta": "El Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi establece deberes en relación con los siguientes ámbitos:",
         "respuestas": [
             {
@@ -315,6 +330,7 @@
         ]
     },
     {
+        "id": 16,
         "pregunta": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, la persona paciente o usuaria:",
         "respuestas": [
             {
@@ -336,6 +352,7 @@
         ]
     },
     {
+        "id": 17,
         "pregunta": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, la persona paciente o usuaria deberá de cumplir los siguientes deberes:",
         "respuestas": [
             {
@@ -357,6 +374,7 @@
         ]
     },
     {
+        "id": 18,
         "pregunta": "Según el Decreto 147/2015, de 21 de julio, por el que se aprueba la Declaración sobre Derechos y Deberes de las personas en el sistema sanitario de Euskadi, los Servicios de atención a pacientes y personas usuarias:",
         "respuestas": [
             {
@@ -378,6 +396,7 @@
         ]
     },
     {
+        "id": 19,
         "pregunta": "- No será imputable al responsable del tratamiento, siempre que este haya adoptado todas las medidas razonables para que se supriman o rectifiquen sin dilación, la inexactitud de los datos personales, con respecto a los fines para los que se tratan, cuando los datos inexactos:",
         "respuestas": [
             {
@@ -399,6 +418,7 @@
         ]
     },
     {
+        "id": 20,
         "pregunta": "Señale la respuesta que NO es correcta. Según la ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales a efectos del tratamiento de los datos, el consentimiento del afectado tiene que ser una manifestación de voluntad que cumpla las siguientes características:",
         "respuestas": [
             {
