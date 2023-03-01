@@ -878,27 +878,5 @@
                 "correcta": false
             }
         ]
-    },
-    {
-        "id": 0,
-        "pregunta": "",
-        "respuestas": [
-            {
-                "texto": "",
-                "correcta": false
-            },
-            {
-                "texto": "",
-                "correcta": false
-            },
-            {
-                "texto": "",
-                "correcta": false
-            },
-            {
-                "texto": "",
-                "correcta": false
-            }
-        ]
     }
 ]
