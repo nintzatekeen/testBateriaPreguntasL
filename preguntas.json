@@ -658,5 +658,247 @@
                 "correcta": true
             }
         ]
+    },
+    {
+        "id": 31,
+        "pregunta": "El programa para formar y ayudar a las y los pacientes a tomar las mejores decisiones para prevenir y realizar el seguimiento de su propia enfermedad se denomina:",
+        "respuestas": [
+            {
+                "texto": "Emergentziak.",
+                "correcta": false
+            },
+            {
+                "texto": "Osasun Eskola.",
+                "correcta": true
+            },
+            {
+                "texto": "Osasunaren balioa.",
+                "correcta": false
+            },
+            {
+                "texto": "Zure osasuna",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "pregunta": "El Marco Estratégico del Departamento de Salud 2021-2024 contempla reducir los tiempos de espera para todas las personas que necesiten realizarse una resonancia magnética en Euskadi hasta:",
+        "respuestas": [
+            {
+                "texto": "Los 30 días.",
+                "correcta": true
+            },
+            {
+                "texto": "Los 45 días.",
+                "correcta": false
+            },
+            {
+                "texto": "Los 90 días.",
+                "correcta": false
+            },
+            {
+                "texto": "Los 60 días.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "pregunta": "El Marco Estratégico del Departamento de Salud 2021-2024 prevé la renovación y el aumento de la plantilla, aportando mayor estabilidad laboral a Osakidetza mediante la convocatoria de:",
+        "respuestas": [
+            {
+                "texto": "3.000 plazas en OPEs en el periodo 2020-2024.",
+                "correcta": false
+            },
+            {
+                "texto": "4.000 plazas en OPEs en el periodo 2021-2024.",
+                "correcta": false
+            },
+            {
+                "texto": "4.000 plazas en OPEs en el periodo 2020-2024.",
+                "correcta": true
+            },
+            {
+                "texto": "Ninguna de las anteriores respuestas es correcta.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "pregunta": "Señale la respuesta que no es correcta. El Marco Estratégico del Departamento de Salud 2021-2024 contempla respecto a la Atención Primaria la adopción de las siguientes medidas:",
+        "respuestas": [
+            {
+                "texto": "La creación de una nueva Subdirección de Atención Primaria.",
+                "correcta": false
+            },
+            {
+                "texto": "La ampliación y homogeneización de la cartera de pruebas diagnósticas que puede solicitar el personal médico de Atención Primaria.",
+                "correcta": false
+            },
+            {
+                "texto": "La integración de la fisioterapia en Atención Primaria en la cartera de servicios de Osakidetza.",
+                "correcta": false
+            },
+            {
+                "texto": "La creación en cada área de salud de la figura del Farmacéutico de Atención Primaria encargado de la adquisición, custodia y conservación de los medicamentos y productos sanitarios y de la dispensación de los medicamentos.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "pregunta": "La medicina que hace posible adaptar la intervención médica a las características individuales de cada persona y, en consecuencia, aplicar intervenciones preventivas, diagnósticas y terapéuticas en aquellos grupos de pacientes que obtendrán un beneficio de las mismas se denomina:",
+        "respuestas": [
+            {
+                "texto": "Medicina preventiva.",
+                "correcta": false
+            },
+            {
+                "texto": "Medicina personalizada de precisión.",
+                "correcta": true
+            },
+            {
+                "texto": "Medicina asistencial individualizada.",
+                "correcta": false
+            },
+            {
+                "texto": "Son correctas la b) y la c).",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "pregunta": "Conforme a lo dispuesto en el Marco Estratégico del Departamento de Salud 2021-2024:",
+        "respuestas": [
+            {
+                "texto": "La herramienta la “prescripción social” permite a los profesionales de Osakidetza derivar a las personas que acuden a su consulta a actividades de su municipio o comunidad, para que utilicen recursos de su entorno.",
+                "correcta": false
+            },
+            {
+                "texto": "Se extenderá el “vending saludable” a todos los centros de salud de Euskadi.",
+                "correcta": false
+            },
+            {
+                "texto": "Se regulará gravar las bebidas azucaradas, como medida eficaz para reducir el consumo de azúcar",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguna de las anteriores respuestas es correcta.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "pregunta": "Conforme al Marco Estratégico del Departamento de Salud 2021-2024 el porcentaje de la población adulta en Euskadi que realiza la suficiente actividad física para asegurar un buen estado de salud se sitúa en:",
+        "respuestas": [
+            {
+                "texto": "Un 30%.",
+                "correcta": true
+            },
+            {
+                "texto": "Un 20%.",
+                "correcta": false
+            },
+            {
+                "texto": "Un 25%.",
+                "correcta": false
+            },
+            {
+                "texto": "Un 40%.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "pregunta": "Conforme al Marco Estratégico del Departamento de Salud 2021-2024, dentro de la digitalización y las medidas de cuidado no presenciales se prevé extender el servicio de teleasistencia:",
+        "respuestas": [
+            {
+                "texto": "A todas las personas mayores de 75 años.",
+                "correcta": false
+            },
+            {
+                "texto": "A todas las personas mayores de 70 años.",
+                "correcta": false
+            },
+            {
+                "texto": "A todas las personas mayores de 80 años.",
+                "correcta": true
+            },
+            {
+                "texto": "A todas las personas que vivan solas y padezcan una enfermedad crónica.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "pregunta": "El Marco Estratégico del Departamento de Salud 2021-2024 prevé la aprobación de una nueva Estrategia de Investigación e Innovación en Salud 2021-2024 en el marco:",
+        "respuestas": [
+            {
+                "texto": "De los Objetivos de Desarrollo Sostenible de Naciones Unidas.",
+                "correcta": false
+            },
+            {
+                "texto": "Del Plan de Ciencia, Tecnología e Innovación 2025 .",
+                "correcta": false
+            },
+            {
+                "texto": "Del Plan de Ciencia, Tecnología e Innovación 2030 y de la estrategia de especialización inteligente RIS3.",
+                "correcta": true
+            },
+            {
+                "texto": "No se contempla la aprobación de una nueva Estrategia de Investigación en Salud.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "pregunta": "Conforme al Marco Estratégico del Departamento de Salud 2021-2024, los 4 Institutos de Investigación que conforman las entidades de I+D+i del sistema sanitario son los siguientes:",
+        "respuestas": [
+            {
+                "texto": "Bioaraba, Biocruces-Bizkaia, Biodonostia y BIOEF.",
+                "correcta": false
+            },
+            {
+                "texto": "Kronikgune, Bioaraba, Biocruces-Bizkaia y BIOEF.",
+                "correcta": false
+            },
+            {
+                "texto": "Bioaraba, Biocruces-Bizkaia, Biodonostia y Kronikgune.",
+                "correcta": true
+            },
+            {
+                "texto": "Biodonostia, Biocruces, kronikgune y BIOEF.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 0,
+        "pregunta": "",
+        "respuestas": [
+            {
+                "texto": "",
+                "correcta": false
+            },
+            {
+                "texto": "",
+                "correcta": false
+            },
+            {
+                "texto": "",
+                "correcta": false
+            },
+            {
+                "texto": "",
+                "correcta": false
+            }
+        ]
     }
 ]
