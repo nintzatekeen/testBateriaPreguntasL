@@ -878,5 +878,225 @@
                 "correcta": false
             }
         ]
+        },
+        {
+        "id": 41,
+        "pregunta": "Conforme al Marco Estratégico del Departamento de Salud 2021-2024, señale cuál de las siguientes medidas se contemplan para que la I+D+i contribuya a la equidad entre hombres y mujeres:",
+        "respuestas": [
+            {
+                "texto": "La puesta en marcha de un nuevo programa de ayudas específico para incentivar la producción científica de las mujeres y la participación de las mujeres en la investigación sanitaria.",
+                "correcta": false
+            },
+            {
+                "texto": "Incrementar los proyectos de investigación que intenten mejorar problemáticas de salud y patologías específicas de las mujeres.",
+                "correcta": false
+            },
+            {
+                "texto": "Impulsar los proyectos de investigación liderados por mujeres.",
+                "correcta": false
+            },
+            {
+                "texto": "Son correctas las respuestas a) y b).",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "pregunta": "En el ámbito de la Gobernanza el Marco Estratégico del Departamento de Salud 2021-2024 afirma que:",
+        "respuestas": [
+            {
+                "texto": "El nuevo Plan de Salud 2021-2028 afianzará el modelo de evaluación anual y posterior presentación al Parlamento Vasco.",
+                "correcta": true
+            },
+            {
+                "texto": "El nuevo Plan de Salud 2021-2028 afianzará el modelo de evaluación bianual y posterior presentación al Parlamento Vasco",
+                "correcta": false
+            },
+            {
+                "texto": "El nuevo Plan de Salud 2021-2028 afianzará el modelo de evaluación anual y posterior presentación al Gobierno Vasco.",
+                "correcta": false
+            },
+            {
+                "texto": "El nuevo Plan de Salud 2021-2028 afianzará el modelo de evaluación bianual y posterior presentación al Gobierno Vasco.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "pregunta": "El Marco Estratégico del Departamento de Salud 2021-2024, establece que en base al plan de normalización lingüística 2018-2022 el objetivo que se fija en el seno del propio Departamento de Salud, así como entre el Departamento y otras instituciones y entidades privadas es un incremento:",
+        "respuestas": [
+            {
+                "texto": "En 10 puntos porcentuales el uso oral del euskera.",
+                "correcta": false
+            },
+            {
+                "texto": "En 15 puntos porcentuales el uso, oral y escrito, del euskera.",
+                "correcta": true
+            },
+            {
+                "texto": "En 15 puntos porcentuales solo del uso oral del euskera.",
+                "correcta": false
+            },
+            {
+                "texto": "En 10 puntos porcentuales el uso, oral y escrito, del euskera.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "pregunta": "Conforme al Marco Estratégico del Departamento de Salud 2021-2024, la labor asistencial tanto del personal médico como de enfermería se llevará a cabo en la lengua oficial de preferencia de las personas pacientes que acudan a los centros de Atención Primaria cuando estos centros estén ubicados en municipios con un porcentaje de población euskaldun superior:",
+        "respuestas": [
+            {
+                "texto": "Al 45%.",
+                "correcta": true
+            },
+            {
+                "texto": "Al 50%.",
+                "correcta": false
+            },
+            {
+                "texto": "Al 40%.",
+                "correcta": false
+            },
+            {
+                "texto": "Al 60%.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "pregunta": "Señale la respuesta que no es correcta. El Plan de Salud recogido en el documento Políticas de salud para Euskadi 2013-2020 pone el foco en los siguientes colectivos con necesidades específicas:",
+        "respuestas": [
+            {
+                "texto": "Mujeres.",
+                "correcta": true
+            },
+            {
+                "texto": "Personas con enfermedad.",
+                "correcta": false
+            },
+            {
+                "texto": "Personas mayores.",
+                "correcta": false
+            },
+            {
+                "texto": "Personas jóvenes y menores de edad.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "pregunta": "El Plan de Salud para Euskadi 2013-2020:",
+        "respuestas": [
+            {
+                "texto": "Cuenta con 5 líneas o áreas de actuación, 35 objetivos y 145 acciones.",
+                "correcta": false
+            },
+            {
+                "texto": "Cuenta con 5 líneas o áreas de actuación, 35 objetivos y 146 acciones.",
+                "correcta": true
+            },
+            {
+                "texto": "Cuenta con 5 líneas o áreas de actuación, 36 objetivos y 146 acciones.",
+                "correcta": false
+            },
+            {
+                "texto": "Cuenta con 4 líneas o áreas de actuación, 35 objetivos y 146 acciones.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "pregunta": "El Plan de Salud para Euskadi 2013-2020:",
+        "respuestas": [
+            {
+                "texto": "Es elaborado por el Gobierno Vasco y aprobado por el Parlamento Vasco.",
+                "correcta": false
+            },
+            {
+                "texto": "Es elaborado por el Departamento de Salud y aprobado por el Parlamento Vasco para un período de seis años de vigencia.",
+                "correcta": false
+            },
+            {
+                "texto": "Es aprobado por el Gobierno Vasco, a propuesta del Departamento de Salud y elevado al Parlamento Vasco para su conocimiento y tramitación reglamentaria.",
+                "correcta": true
+            },
+            {
+                "texto": "Es aprobado por el Departamento de Salud y su período de vigencia es de siete años.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "pregunta": "Conforme al Plan de Salud para Euskadi 2013-2020 señale cuál de los siguientes ejes no se mencionan entre los que se consideran determinantes de las desigualdades en salud:",
+        "respuestas": [
+            {
+                "texto": "Orientación sexual.",
+                "correcta": true
+            },
+            {
+                "texto": "Clase social.",
+                "correcta": false
+            },
+            {
+                "texto": "Edad.",
+                "correcta": false
+            },
+            {
+                "texto": "Género.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "pregunta": "Señale cuál de los siguientes principios no se mencionan entre los que se consideran que cimientan el Plan de Salud de Euskadi 2013-2020:",
+        "respuestas": [
+            {
+                "texto": "Universalidad.",
+                "correcta": false
+            },
+            {
+                "texto": "Gratuidad.",
+                "correcta": true
+            },
+            {
+                "texto": "Equidad.",
+                "correcta": false
+            },
+            {
+                "texto": "Sostenibilidad.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "pregunta": "Señale cuál de las siguientes respuestas no es correcta respecto al estado de salud de la población de Euskadi que se contempla en el Plan de Salud para Euskadi 2013-2020:",
+        "respuestas": [
+            {
+                "texto": "La esperanza de vida (EV) en Euskadi aumenta paulatinamente tanto en hombres como en mujeres y en todas las edades.",
+                "correcta": false
+            },
+            {
+                "texto": "El 38% de la población vasca de 65 y más años presenta alguna enfermedad crónica y esta proporción previsiblemente se triplicará para el año 2040.",
+                "correcta": true
+            },
+            {
+                "texto": "Con relación a la mortalidad, el número de fallecimientos ha mantenido una tendencia ascendente en la última década (incremento del 10% en el período 2001- 11) como consecuencia del envejecimiento poblacional.",
+                "correcta": false
+            },
+            {
+                "texto": "El Programa de Vacunaciones constituye una de las intervenciones preventivas más importantes, especialmente en el ámbito de las enfermedades infecciosas.",
+                "correcta": false
+            }
+        ]
     }
 ]
