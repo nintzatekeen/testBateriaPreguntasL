@@ -1098,5 +1098,225 @@
                 "correcta": false
             }
         ]
+        },
+        {
+        "id": 51,
+        "pregunta": "El Plan de Salud para Euskadi 2013-2020 señala cuáles son los retos y oportunidades que debe de asumir. En este contexto, las oportunidades y retos que debe asumir el Plan de Salud tiene que ver con:",
+        "respuestas": [
+            {
+                "texto": "Alcanzar un compromiso interinstitucional para que la salud y la equidad en salud sean asumidas como metas del conjunto del gobierno y demás instituciones.",
+                "correcta": false
+            },
+            {
+                "texto": "Disminuir las desigualdades sociales y de género en la salud, aun en las circunstancias de precariedad y riesgo de pobreza derivadas de la crisis económica.",
+                "correcta": false
+            },
+            {
+                "texto": "Potenciar y consolidar la atención sociosanitaria, dotándola de mecanismos y procedimientos que favorezcan la coordinación del sector social y sanitario.",
+                "correcta": false
+            },
+            {
+                "texto": "Todas las anteriores respuestas son correctas.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "pregunta": "Conforme al Plan de Salud para Euskadi 2013-2020 señale cuál de las siguientes áreas tienen la consideración de áreas transversales:",
+        "respuestas": [
+            {
+                "texto": "Equidad y responsabilidad; y entornos y conductas saludables.",
+                "correcta": true
+            },
+            {
+                "texto": "Entorno y conductas saludables; y salud infantil y juvenil.",
+                "correcta": false
+            },
+            {
+                "texto": "Entidad y responsabilidad; y envejecimiento saludable.",
+                "correcta": false
+            },
+            {
+                "texto": "Envejecimiento saludable; y personas con enfermedad.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "pregunta": "Siguiendo lo previsto en el Plan de Salud para Euskadi 2013-2020, señale la respuesta que no es correcta. Constituyen objetivos del área “equidad y responsabilidad” los siguientes :",
+        "respuestas": [
+            {
+                "texto": "Atención sociosanitaria integral, integrada y centrada en las personas.",
+                "correcta": true
+            },
+            {
+                "texto": "Salud en todas las políticas.",
+                "correcta": false
+            },
+            {
+                "texto": "Equidad.",
+                "correcta": false
+            },
+            {
+                "texto": "Participación y empoderamiento.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "pregunta": "El indicador que refleja la apreciación que el individuo hace de su propia salud y es reconocido como un buen predictor de la morbilidad y la mortalidad de la población se denomina:",
+        "respuestas": [
+            {
+                "texto": "Autodiagnóstico de la salud.",
+                "correcta": false
+            },
+            {
+                "texto": "Autocuidado de la salud.",
+                "correcta": false
+            },
+            {
+                "texto": "Autovaloración de la salud. ",
+                "correcta": true
+            },
+            {
+                "texto": "Autoasistencia de la salud.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "pregunta": "Siguiendo lo previsto en el Plan de Salud para Euskadi 2013-2020 y en concreto por lo que respecta al área prioritaria 2 “Personas con enfermedad” señale cuál de los siguientes elementos se resaltan a la hora de determinar los objetivos y acciones de este área:",
+        "respuestas": [
+            {
+                "texto": "La ruta asistencial como concreción del proceso asistencial con visión integradora.",
+                "correcta": false
+            },
+            {
+                "texto": "La coordinación de niveles asistenciales para el buen servicio a la persona.",
+                "correcta": false
+            },
+            {
+                "texto": "Los procesos de rehabilitación personalizados y en el entorno habitual de las personas enfermas, cuando sea posible.",
+                "correcta": false
+            },
+            {
+                "texto": "Todas las respuestas anteriores son correctas.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "pregunta": "Conforme a lo previsto en el Plan de Salud para Euskadi 2013-2020 señale la respuesta que no es correcta. Las acciones previstas para fomentar el uso adecuado de fármacos son las siguientes:",
+        "respuestas": [
+            {
+                "texto": "Desarrollar programas de vigilancia antimicrobiana y de resistencias a antibióticos.",
+                "correcta": false
+            },
+            {
+                "texto": "Desarrollar un proceso de prescripción compartida hospital-primaria-farmacia, que fomente la adherencia al tratamiento, el uso seguro de fármacos y que esté basado en guías de práctica clínica.",
+                "correcta": false
+            },
+            {
+                "texto": "Impulsar la elaboración y utilización de guías de práctica clínica.",
+                "correcta": true
+            },
+            {
+                "texto": "Potenciar la deprescripción y seguimiento de interacciones en pacientes con polimedicación.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "pregunta": "Con relación a las personas con cáncer, el Plan de Salud para Euskadi 2013-2020 prevé que para el año 2020 el objetivo respecto a la mortalidad por cáncer en menores de 65 años debe ser de:",
+        "respuestas": [
+            {
+                "texto": "Un descenso del 10% tanto en hombres como en mujeres.",
+                "correcta": true
+            },
+            {
+                "texto": "Un descenso del 15% tanto en hombres como en mujeres.",
+                "correcta": false
+            },
+            {
+                "texto": "Un descenso del 10% en hombres y frenar la tendencia ascendente en mujeres.",
+                "correcta": false
+            },
+            {
+                "texto": "Un descenso del 10% en mujeres y frenar la tendencia ascendente en hombres.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "pregunta": "Conforme al Plan de Salud para Euskadi 2013-2020 señale cuál de las siguientes acciones están previstas para diseñar y aplicar intervenciones de abordaje de la obesidad desde la atención sanitaria:",
+        "respuestas": [
+            {
+                "texto": "Cribado del índice de masa corporal (IMC) y del perímetro de cintura en las consultas de Atención Primaria y Hospitalaria.",
+                "correcta": false
+            },
+            {
+                "texto": "Formación en consejo breve sobre obesidad a profesionales de Atención Primaria.",
+                "correcta": false
+            },
+            {
+                "texto": "Desarrollar intervenciones para el diagnóstico, tratamiento y seguimiento individualizado de las personas obesas, evitando su estigmatización.",
+                "correcta": false
+            },
+            {
+                "texto": "Todas las anteriores respuestas son correctas.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "pregunta": "Señale la respuesta que NO es correcta:",
+        "respuestas": [
+            {
+                "texto": "El programa de cribado prenatal Sindrome de Down y otras cromosomopatías se amplío en 2010 a todas las embarazadas que controlan su embarazo en el sistema público.",
+                "correcta": false
+            },
+            {
+                "texto": "El Programa de cribado neonatal de enfermedades congénitas de la Comunidad Autónoma del País Vasco se inició en 1992.",
+                "correcta": true
+            },
+            {
+                "texto": "El Programa de cribado neonatal de enfermedades congénitas de la Comunidad Autónoma del País Vasco se inició en 1982 con el cribado del hipotiroidismo y la hiperfenilalaninemia (PKU-fenilcetonuria).",
+                "correcta": false
+            },
+            {
+                "texto": "A través del Programa de cribado neonatal de enfermedades congénitas de la Comunidad Autónoma del País Vasco en la actualidad también se criban las siguientes patologías: hiperfenilalaninemia, hipotiroidismo congénito, deficiencia de Acil Co A deshidrogenasa de cadena media, Fibrosis Quística y Enfermedad de Células Falciformes.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "pregunta": "Conforme al Plan de Salud para Euskadi 2013-2020 señale cuál de las siguientes áreas no tienen la consideración de áreas transversales:",
+        "respuestas": [
+            {
+                "texto": "Área 2: personas con enfermedad.",
+                "correcta": false
+            },
+            {
+                "texto": "Área 1: equidad y responsabilidad.",
+                "correcta": true
+            },
+            {
+                "texto": "Área 3: envejecimiento saludable.",
+                "correcta": false
+            },
+            {
+                "texto": "Son correctas las repuestas a) y c).",
+                "correcta": false
+            }
+        ]
     }
 ]
