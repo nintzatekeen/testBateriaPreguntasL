@@ -1307,7 +1307,7 @@
             },
             {
                 "texto": "Área 1: equidad y responsabilidad.",
-                "correcta": true
+                "correcta": false
             },
             {
                 "texto": "Área 3: envejecimiento saludable.",
@@ -1315,7 +1315,7 @@
             },
             {
                 "texto": "Son correctas las repuestas a) y c).",
-                "correcta": false
+                "correcta": true
             }
         ]
     }
