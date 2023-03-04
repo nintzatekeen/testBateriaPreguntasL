@@ -1318,5 +1318,225 @@
                 "correcta": true
             }
         ]
+    },
+    {
+        "id": 61,
+        "pregunta": "Señale cuales son los acuerdos de referencia a nivel estatal, europeo e internacional en el ámbito de la Salud Pública que afectan al Plan Salud para Euskadi 2013-2020:",
+        "respuestas": [
+            {
+                "texto": "Reglamento Sanitario Internacional de la Organización Mundial de la Salud.",
+                "correcta": false
+            },
+            {
+                "texto": "Segundo Programa de Acción Comunitaria en Salud Pública 2008-2013 del Parlamento y Consejo Europeo.",
+                "correcta": false
+            },
+            {
+                "texto": "Estrategia de Desarrollo Sostenible de la Unión Europea de la Comisión Europea.",
+                "correcta": false
+            },
+            {
+                "texto": "Todas las anteriores respuestas son correctas.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "pregunta": "Señale cuál de las siguientes afirmaciones no es correcta conforme a lo previsto en el Plan de Salud para Euskadi 2013-2020:",
+        "respuestas": [
+            {
+                "texto": "El Departamento de Salud se compromete a implantar los proyectos diseñados, a monitorizar anualmente los indicadores de los objetivos y también con una periodicidad anual, a hacer una evaluación pública en el ámbito de la Comisión de Salud del Parlamento Vasco.",
+                "correcta": false
+            },
+            {
+                "texto": "La Comisión Directora del Plan de Salud 2013-2020 está presidida por el Lehendakari y tiene como fin revisar y sancionar las estrategias y objetivos del Plan de Salud en todas las políticas y el enfoque de desarrollo sostenible en la Administración Autónoma.",
+                "correcta": false
+            },
+            {
+                "texto": "El Comité Técnico de Salud en todas las políticas está presidido por el Lehendakari y lo integra el personal técnico de las Viceconsejerías en la Comisión Directora.",
+                "correcta": true
+            },
+            {
+                "texto": "El Comité Técnico de Salud en todas las políticas está presidida por la Directora de Salud Pública y Adicciones y lo integra el personal técnico de las Viceconsejerías en la Comisión Directora.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "pregunta": "Señale la respuesta correcta respecto al Comité Técnico del Plan de Salud:",
+        "respuestas": [
+            {
+                "texto": "Es el órgano encargado de rendir cuentas al Consejo de Dirección del Departamento de Salud.",
+                "correcta": false
+            },
+            {
+                "texto": "Es responsable de la elaboración de la evaluación del cumplimiento de las acciones y el garante de todo el proceso dentro del ámbito competencial del Departamento de Salud.",
+                "correcta": false
+            },
+            {
+                "texto": "En su actuación se asesora y apoya en los servicios, comisiones y estructuras actualmente vigentes en el Departamento de Salud.",
+                "correcta": false
+            },
+            {
+                "texto": "Todas las anteriores respuestas son correctas.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "pregunta": "Señale la respuesta que no es correcta respecto al proceso de elaboración del Plan de Salud de Euskadi 2013-2020:",
+        "respuestas": [
+            {
+                "texto": "Se han definido una serie de comisiones interrelacionadas en tres niveles diferenciados: nivel de preparación; nivel de ejecución; y nivel de dirección.",
+                "correcta": true
+            },
+            {
+                "texto": "Se han definido una serie de comisiones interrelacionadas en tres niveles diferenciados: nivel de ejecución; nivel de coordinación; y nivel de dirección.",
+                "correcta": false
+            },
+            {
+                "texto": "Se han definido una serie de comisiones interrelacionadas en tres niveles diferenciados: nivel de ejecución integrado por cinco grupos de trabajo; nivel de coordinación; y nivel de dirección.",
+                "correcta": false
+            },
+            {
+                "texto": "Se han definido una serie de comisiones interrelacionadas en tres niveles diferenciados: nivel de ejecución; nivel de coordinación en el que se sitúa la comisión de coordinación técnica; y nivel de dirección.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "pregunta": "Señale cuál de entre todos los siguientes no es un objetivo de la Estrategia de seguridad del paciente 2020:",
+        "respuestas": [
+            {
+                "texto": "Promover una cultura de Seguridad integral en Osakidetza.",
+                "correcta": false
+            },
+            {
+                "texto": "Consolidar el modelo de participación de los profesionales.",
+                "correcta": false
+            },
+            {
+                "texto": "Asegurar un buen posicionamiento social del Ente Público Osakidetza.",
+                "correcta": true
+            },
+            {
+                "texto": "Impulsar el conjunto de líneas de acción y de proyectos priorizados en esta estrategia.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "pregunta": "En 2014, el informe To Err Is Human del Instituto Médico de EE.UU. reconoció que el número de muertes al año debidas a “errores médicos” rondaba las:",
+        "respuestas": [
+            {
+                "texto": "98.000",
+                "correcta": true
+            },
+            {
+                "texto": "423.000",
+                "correcta": false
+            },
+            {
+                "texto": "282.000",
+                "correcta": false
+            },
+            {
+                "texto": "221.000",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "pregunta": "En lo que se refiere a la información al paciente, la Estrategia de seguridad del paciente 2020 considera que (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "debe transmitirse de forma adecuada y adaptada a las características y necesidades de cada persona, aunque ello requiera un esfuerzo adicional por parte de los profesionales.",
+                "correcta": false
+            },
+            {
+                "texto": "en determinadas situaciones puede ser necesario incorporar en el proceso de comunicación a familiares y/o cuidadores, ya que no siempre la persona enferma está en situación de asimilar adecuadamente la información recibida",
+                "correcta": false
+            },
+            {
+                "texto": "la sociedad digital ha producido una transformación que justifica utilizar medios como las apps para informar adecuadamente a los pacientes.",
+                "correcta": true
+            },
+            {
+                "texto": "asistimos actualmente a un cambio de modelo, en el que la relación profesional- paciente se está reequilibrando de tal modo que el paciente está dejando de ser un mero receptor de las indicaciones y los cuidados parcelados o fragmentados, para asumir un papel más activo en la toma de decisiones y en la priorización de las intervenciones necesarias para la recuperación de su estado de salud.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "pregunta": "La Estrategia de seguridad del paciente 2020 plantea (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Integrar las asociaciones de pacientes en los equipos profesionales que han de adoptar decisiones sobre un paciente en concreto.",
+                "correcta": true
+            },
+            {
+                "texto": "Impulsar acciones dirigidas a favorecer el conocimiento mutuo entre los profesionales de diferentes ámbitos asistenciales.",
+                "correcta": false
+            },
+            {
+                "texto": "Promover la comunicación estandarizada, tanto dentro de las unidades o servicios como entre diferentes niveles asistenciales para asegurar la transferencia de pacientes.",
+                "correcta": false
+            },
+            {
+                "texto": "Aplicar buenas prácticas para favorecer la coordinación entre servicios.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "pregunta": "La estrategia de Seguridad del Paciente 2020 de Osakidetza incluye las siguientes líneas de acción corporativas (señálese la respuesta INCORRECTA)",
+        "respuestas": [
+            {
+                "texto": "Conciliación de la medicación",
+                "correcta": false
+            },
+            {
+                "texto": "Encriptación de las comunicaciones con el paciente",
+                "correcta": true
+            },
+            {
+                "texto": "Optimización en la prescripción de pruebas diagnósticas que utilizan radiación ionizante",
+                "correcta": false
+            },
+            {
+                "texto": "Atención a las segundas y terceras víctimas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "pregunta": "Los principios que rigen el sistema de notificación de incidentes son (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "registro de carácter obligatorio.",
+                "correcta": true
+            },
+            {
+                "texto": "anónimo y no punitivo.",
+                "correcta": false
+            },
+            {
+                "texto": "confidencialidad de la información.",
+                "correcta": false
+            },
+            {
+                "texto": "análisis para el aprendizaje y la implantación de mejoras a nivel local.",
+                "correcta": false
+            }
+        ]
     }
 ]
