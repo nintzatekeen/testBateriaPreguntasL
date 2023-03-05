@@ -1538,5 +1538,225 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 71,
+        "pregunta": "Las acciones relativas a la implementación y seguimiento de los planes de acción propuestos, dentro de la gestión de los incidentes de seguridad que prevé la Estrategia de seguridad del paciente 2020, incluyen (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Potenciar la implementación y el seguimiento, definiendo el responsable de cada acción, así como la fecha de implementación y la periodicidad de seguimiento de la misma.",
+                "correcta": false
+            },
+            {
+                "texto": "Planificar nuevas líneas de trabajo que pudieran revestir interés para el conjunto de organizaciones de servicios.",
+                "correcta": true
+            },
+            {
+                "texto": "Evaluación periódica de la eficacia de las acciones implementadas y comunicación al equipo gestor y al resto de la organización de los resultados alcanzados.",
+                "correcta": false
+            },
+            {
+                "texto": "Elaboración y difusión periódica de informes de resultados.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "pregunta": "Las acciones relativas al aprendizaje compartido, dentro de la gestión de los incidentes de seguridad que prevé la Estrategia de seguridad del paciente 2020 incluyen (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Desarrollar estrategias de comunicación que permitan la difusión de “buenas prácticas” en las organizaciones de servicios (alertas, boletines, sesiones, etc.).",
+                "correcta": false
+            },
+            {
+                "texto": "Fomentar la implantación en las organizaciones de servicios de “buenas prácticas” que ya estén implantadas con resultados muy favorables en otros centros a nivel local, estatal o internacional.",
+                "correcta": false
+            },
+            {
+                "texto": "Consolidar y dinamizar el funcionamiento de los Comités de Seguridad del Paciente.",
+                "correcta": true
+            },
+            {
+                "texto": "Potenciar el aprendizaje a nivel corporativo a través de las herramientas disponibles: Osagune, Intranet corporativa.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "pregunta": "Señale cuál de estas afirmaciones es incorrecta, de acuerdo con lo establecido por la L2 (Atención a las segundas y terceras víctimas) de la Estrategia de seguridad del paciente 2020:",
+        "respuestas": [
+            {
+                "texto": "Primeras víctimas son los pacientes que sufren las consecuencias del Evento Adverso y sus familiares.",
+                "correcta": false
+            },
+            {
+                "texto": "Segundas víctimas son los profesionales sanitarios involucrados directa o indirectamente en el Evento adverso A y que resultan afectados desde el punto de vista psicológico y emocional.",
+                "correcta": false
+            },
+            {
+                "texto": "Tercera víctima es la organización sanitaria en la que acontece el Evento Adverso.",
+                "correcta": false
+            },
+            {
+                "texto": "Todas las respuestas anteriores son inexactas.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "pregunta": "De acuerdo con la Estrategia de seguridad del paciente 2020, la prevención de los errores de identificación sigue siendo un aspecto prioritario para las organizaciones sanitarias debido a que (señale la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Los pacientes tienden a demandar siempre a la organización sanitaria cuando se produce esta clase de errores.",
+                "correcta": true
+            },
+            {
+                "texto": "A diferencia de otros tipos de incidentes de seguridad, los errores de identificación pueden afectar a varios pacientes simultáneamente.",
+                "correcta": false
+            },
+            {
+                "texto": "La introducción de información en una historia clínica equivocada puede generar, si no se detecta el error precozmente, múltiples fallos o errores en el proceso asistencial.",
+                "correcta": false
+            },
+            {
+                "texto": "Las consecuencias de los errores de identificación de pacientes pueden ser muy graves para uno o ambos pacientes.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "pregunta": "La implicación de los pacientes en su seguridad y su empoderamiento aporta ventajas en cuanto a (señale la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Alcanzar un diagnóstico preciso.",
+                "correcta": false
+            },
+            {
+                "texto": "Contribuir a un uso seguro de la medicación.",
+                "correcta": false
+            },
+            {
+                "texto": "Introducir en los tratamientos herramientas tecnológicas más avanzadas.",
+                "correcta": true
+            },
+            {
+                "texto": "Verificar la adecuación de los procesos de atención.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "pregunta": "Dentro de la Estrategia de seguridad del paciente 2020, y en lo que respecta específicamente al objetivo de implicar los pacientes en la comunicación de incidentes de seguridad y situaciones de riesgo que detecten, se plantea (señale la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Aprovechar las quejas y reclamaciones interpuestas por los pacientes, y considerarlas como una valiosa fuente de información complementaria sobre los problemas de seguridad acaecidos en la organización.",
+                "correcta": false
+            },
+            {
+                "texto": "Revisar las encuestas de satisfacción e incluir preguntas relativas a la percepción de seguridad por parte de los pacientes.",
+                "correcta": false
+            },
+            {
+                "texto": "Realizar encuestas sobre riesgos a los profesionales sanitarios y comparar sus respuestas con las proporcionadas por los pacientes a los que hayan atendido.",
+                "correcta": true
+            },
+            {
+                "texto": "Valorar la información aportada por los pacientes en las sugerencias de mejora e incorporar aquellos aspectos que sean de utilidad para fortalecer el sistema.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "pregunta": "Los indicadores que se utilizan para evaluar la conciliación de la medicación en la Estrategia de seguridad del paciente 2020 incluyen (señálese la INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Existencia de un programa de conciliación de la medicación en las transiciones entre ámbitos asistenciales del paciente revisado y actualizado.",
+                "correcta": false
+            },
+            {
+                "texto": "Nº de discrepancias no justificadas / Total de pacientes conciliados.",
+                "correcta": false
+            },
+            {
+                "texto": "Nº pacientes con conciliación de la medicación x 100 / Nº pacientes población diana.",
+                "correcta": false
+            },
+            {
+                "texto": "Nº de pacientes que han mostrado problemas de adherencia/ Total de pacientes conciliados.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "pregunta": "El principio de minimización del riesgo en la utilización de radiación ionizante implica (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "La selección razonable de las situaciones en las que se utiliza cada prueba, es decir, una adecuada justificación de la misma.",
+                "correcta": false
+            },
+            {
+                "texto": "Priorizar la reducción del riesgo en poblaciones más vulnerables al efecto de la radiación, como la población pediátrica o las embarazadas.",
+                "correcta": false
+            },
+            {
+                "texto": "La optimización de la dosis empleada, de tal forma que pueda obtenerse una información diagnóstica suficiente sin que se someta al paciente a una exposición a dosis innecesariamente altas.",
+                "correcta": false
+            },
+            {
+                "texto": "Sólo dos de las tres respuestas anteriores son correctas.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "pregunta": "De acuerdo con la Estrategia de seguridad del paciente 2020, los Indicadores de la línea de acción “Seguridad Transfusional” son (señálese la respuesta INEXACTA):",
+        "respuestas": [
+            {
+                "texto": "Número de unidades transfundidas.",
+                "correcta": false
+            },
+            {
+                "texto": "Número de incidentes.",
+                "correcta": true
+            },
+            {
+                "texto": "Porcentaje de reacciones adversas (sobre componentes transfundidos).",
+                "correcta": false
+            },
+            {
+                "texto": "Número de reacciones adversas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "pregunta": "Señale cuál de los siguientes no es un indicador global de la línea de acción “Cirugía Segura”:",
+        "respuestas": [
+            {
+                "texto": "Porcentaje global de pacientes intervenidos de cirugía programada y urgente a los que se les aplica el listado de verificación de seguridad quirúrgica (LVSQ).",
+                "correcta": false
+            },
+            {
+                "texto": "Protocolo de trazabilidad del paciente.",
+                "correcta": false
+            },
+            {
+                "texto": "Servicios-unidades con listado de verificación de seguridad quirúrgica (LVSQ) implantado (%).",
+                "correcta": true
+            },
+            {
+                "texto": "Protocolo de prácticas quirúrgicas seguras – Marcado del sitio quirúrgico.",
+                "correcta": false
+            }
+        ]
     }
 ]
