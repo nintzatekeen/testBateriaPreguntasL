@@ -1758,5 +1758,225 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 81,
+        "pregunta": "Entre los objetivos de la L10. Seguridad en el proceso asistencial gestación-partopuerperio de la Estrategia de seguridad del paciente 2020 se encuentra (señálese el que NO PROCEDE):",
+        "respuestas": [
+            {
+                "texto": "Incrementar la Seguridad del proceso asistencial gestación, parto, puerperio y recién nacido en un entorno de seguridad para minimizar los posibles eventos adversos impulsando y activando la fisiología del proceso gestación, parto, puerperio.",
+                "correcta": false
+            },
+            {
+                "texto": "Promover el parto en casa con una adecuada supervisión por parte de los profesionales sanitarios adecuados al caso.",
+                "correcta": true
+            },
+            {
+                "texto": "Desarrollar pautas de actuación ante los posibles sucesos adversos prenatales, intraparto, posnatales y sucesos centinela que pueden afectar a la madre y al bebé.",
+                "correcta": false
+            },
+            {
+                "texto": "Garantizar y promover la comunicación entre profesionales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "pregunta": "El estudio EVADUR (eventos adversos ligados a la asistencia en los Servicios de Urgencias), desarrollado en 2009 en 21 hospitales mostró que los factores causales más frecuentes de los incidentes de seguridad fueron (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "los relacionados con los cuidados del paciente.",
+                "correcta": false
+            },
+            {
+                "texto": "los relacionados con el uso inadecuado de la información del paciente.",
+                "correcta": true
+            },
+            {
+                "texto": "los relacionados con los errores y/o retrasos en el diagnóstico.",
+                "correcta": false
+            },
+            {
+                "texto": "los relacionados con la medicación.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "pregunta": "Los Indicadores de la línea de acción “Buenas prácticas en los pacientes hospitalizados en riesgo de desnutrición” comprenden (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Porcentaje de informes de alta de unidades de hospitalización en los que consta el estado nutricional del paciente y las recomendaciones pertinentes.",
+                "correcta": false
+            },
+            {
+                "texto": "Porcentaje de pacientes ingresados a los que se les ha realizado cribado del estado nutricional.",
+                "correcta": false
+            },
+            {
+                "texto": "Porcentaje de pacientes normo-nutridos al ingreso que al alta presentan riesgo de desnutrición o desnutrición.",
+                "correcta": false
+            },
+            {
+                "texto": "Porcentaje de pacientes ingresados que muestran síntomas de desnutrición durante su estancia hospitalaria.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "pregunta": "Las acciones propuestas por la Estrategia de seguridad del paciente 2020 para comenzar a abordar el problema de la Incontinencia Urinaria inducida por uso inadecuado de Absorbentes de Incontinencia Urinaria, incluyen (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Revisar los protocolos de funcionamiento interno (formales o informales) de las unidades de hospitalización, identificando los que incluyen esta práctica y valorando su adecuación a las recomendaciones basadas en la mejor evidencia disponible.",
+                "correcta": false
+            },
+            {
+                "texto": "Constituir un grupo de trabajo corporativo, compuesto por las diferentes categorías de profesionales que participan en la planificación y en la aplicación de los cuidados a pacientes con IU.",
+                "correcta": false
+            },
+            {
+                "texto": "Construir estrategias de seguimiento de la evolución de los pacientes en cooperación con las asociaciones de pacientes correspondientes.",
+                "correcta": true
+            },
+            {
+                "texto": "Definir, difundir e implantar una guía de recomendaciones para el uso adecuado de AIU, que tenga en cuenta todos los aspectos anteriormente mencionados.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "pregunta": "Un estudio realizado por el Institute For Safe Medication Practices (ISMP) muestra que la mayoría de los errores por fármacos asociados a eventos adversos graves, están relacionados con:",
+        "respuestas": [
+            {
+                "texto": "el uso reiterado de fármacos de efectos terapéuticos similares cuya interacción produce una alta tasa de efectos secundarios graves.",
+                "correcta": false
+            },
+            {
+                "texto": "la utilización de incorrecta de insulina y anticoagulantes.",
+                "correcta": false
+            },
+            {
+                "texto": "el uso de fármacos asociados a pacientes crónicos.",
+                "correcta": false
+            },
+            {
+                "texto": "la utilización de un número limitado de fármacos.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "pregunta": "Las caídas de los pacientes hospitalizados constituyen otro evento de seguridad bastante frecuente, especialmente entre los más mayores y dependientes. Las tasas de referencia varían, pero en general…",
+        "respuestas": [
+            {
+                "texto": "Casi todas se sitúan entre las 3 y 20 caídas por cada mil días de estancia hospitalaria, produciendo lesiones hasta en el 50% de las ocasiones.",
+                "correcta": true
+            },
+            {
+                "texto": "Casi todas se sitúan entre las 10 y 20 caídas por cada mil días de estancia hospitalaria, produciendo lesiones hasta en el 50% de las ocasiones.",
+                "correcta": false
+            },
+            {
+                "texto": "Casi todas se sitúan entre las 5 y 10 caídas por cada mil días de estancia hospitalaria, produciendo lesiones hasta en el 25% de las ocasiones.",
+                "correcta": false
+            },
+            {
+                "texto": "Casi todas se sitúan entre las 5 y 10 caídas por cada mil días de estancia hospitalaria, produciendo lesiones hasta en el 50% de las ocasiones.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "pregunta": "La Estrategia de Atención Sociosanitaria de Euskadi 2021-2024 plantea un escenario de trabajo definido y aprobado por:",
+        "respuestas": [
+            {
+                "texto": "La Consejera de Sanidad del Gobierno Vasco.",
+                "correcta": false
+            },
+            {
+                "texto": "La dirección general de Osakidetza.",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Vasco de Atención Sociosanitaria.",
+                "correcta": true
+            },
+            {
+                "texto": "La Asociación de Municipios Vascos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "pregunta": "De acuerdo con el DAFO de las Prioridades Estratégicas de Atención Sociosanitaria, Euskadi 2017-2020, una de las debilidades del ámbito biosanitario de Euskadi era (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Heterogeneidad en la interlocución en el sistema de servicios sociales de cara a la definición de un marco de interoperabilidad para la Historia Sociosanitaria de Euskadi.",
+                "correcta": false
+            },
+            {
+                "texto": "Ausencia de referentes sociosanitarios/as en las organizaciones del sistema de servicios sociales.",
+                "correcta": false
+            },
+            {
+                "texto": "Ausencia de criterios definidos relativos a la vigencia y revisión de protocolos sociosanitarios.",
+                "correcta": false
+            },
+            {
+                "texto": "Carencia de un enfoque ecológico y de sostenibilidad.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "pregunta": "De acuerdo con el DAFO de las Prioridades Estratégicas de Atención Sociosanitaria, Euskadi 2017-2020, una de las fortalezas del ámbito biosanitario de Euskadi era (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Igualdad de los y las representantes del Sistema de Servicios Sociales en el marco de decisión que se establece en las Comisiones Sociosanitarias de las OSIs.",
+                "correcta": true
+            },
+            {
+                "texto": "Articulación de Catálogo de Recursos Sociosanitarios a partir de ambas carteras de servicios.",
+                "correcta": false
+            },
+            {
+                "texto": "Consenso institucional en torno a la misión y enfoque de la atención sociosanitaria, evidenciado en la gestión de la COVID-19 con la necesidad de llegar a consensos de emergencia en tiempos récord.",
+                "correcta": false
+            },
+            {
+                "texto": "Existencia de la Comisión Sociosanitaria de Comités de Ética de Euskadi.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "pregunta": "De acuerdo con el DAFO de las Prioridades Estratégicas de Atención Sociosanitaria, Euskadi 2017-2020, una de las oportunidades del ámbito biosanitario de Euskadi era (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Empoderamiento de representantes del sistema de servicios sociales en las Comisiones Sociosanitarias.",
+                "correcta": false
+            },
+            {
+                "texto": "Actualización del Mapa de Recursos Sanitarios.",
+                "correcta": true
+            },
+            {
+                "texto": "Articulación de la participación social en el modelo de coordinación sociosanitaria de Euskadi.",
+                "correcta": false
+            },
+            {
+                "texto": "Progreso en el diseño de un sistema de información compartida con la Historia Sociosanitaria.",
+                "correcta": false
+            }
+        ]
     }
 ]
