@@ -1978,5 +1978,225 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 91,
+        "pregunta": "De acuerdo con el DAFO de las Prioridades Estratégicas de Atención Sociosanitaria, Euskadi 2017-2020, una de las amenazas en el ámbito biosanitario de Euskadi era (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Falta de adecuación al marco legal vigente de los acuerdos que sostienen la atención de necesidades sociosanitarias.",
+                "correcta": false
+            },
+            {
+                "texto": "Escasa cultura de sistematización de la información para trabajo compartido por parte de profesionales, especialmente en el sistema de servicios sociales.",
+                "correcta": false
+            },
+            {
+                "texto": "Complejidad en la gestión de expectativas de las y los profesionales respecto a la Historia Sociosanitaria de Euskadi.",
+                "correcta": false
+            },
+            {
+                "texto": "Una considerable falta de definición de tipología de recursos sociosanitarios en base al origen de la financiación.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "pregunta": "De acuerdo con la Estrategia de Atención Sociosanitaria de Euskadi 2021-2024, el contexto sociodemográfico plasma una evolución social, rica en matices y vertiginosa en sus cambios y consecuencias, que puede ser resumida en varios titulares (señálese el que NO PROCEDA):",
+        "respuestas": [
+            {
+                "texto": "La elevada esperanza de vida con calidad, envejecimiento y escaso dinamismo demográfico.",
+                "correcta": false
+            },
+            {
+                "texto": "El impacto en el sistema prestacional de la dependencia y la discapacidad.",
+                "correcta": false
+            },
+            {
+                "texto": "La heterogeneidad en las configuraciones familiares: disminución del tamaño de las familias, transformación de roles y feminización de los hogares unipersonales.",
+                "correcta": false
+            },
+            {
+                "texto": "La progresiva interrelación entre los diferentes roles desempeñados por la ciudadanía en la sociedad de servicios.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "pregunta": "En términos de gobernanza sociosanitaria, en Euskadi son órganos decisorios (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "las concejalías de Sanidad y Servicios Sociales.",
+                "correcta": true
+            },
+            {
+                "texto": "el Consejo Vasco de Atención Sociosanitaria.",
+                "correcta": false
+            },
+            {
+                "texto": "las Comisiones Sociosanitarias Territoriales.",
+                "correcta": false
+            },
+            {
+                "texto": "los Equipos de Valoración de Atención Temprana.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "pregunta": "El sistema vasco de salud y el sistema vasco de servicios sociales articulan servicios de personas a personas, esenciales, relacionales y de interés general en un contexto en profunda transformación sobre cuyo fondo destacan las tres transiciones, que son (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "ecológico-medioambiental.",
+                "correcta": false
+            },
+            {
+                "texto": "eco-feminista.",
+                "correcta": true
+            },
+            {
+                "texto": "social-sanitaria.",
+                "correcta": false
+            },
+            {
+                "texto": "tecnológico-digital.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "pregunta": "Entre los nuevos desafíos y visiones emergentes incluidos por la Estrategia de Atención Sociosanitaria de Euskadi se citan una serie de factores estructurales que van modelando un nuevo contexto demográfico, social, económico y cultural en esta Comunidad Autónoma. Entre ellos se encuentran (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "El edadismo o discriminación por razón de edad. Decenio del envejecimiento saludable.",
+                "correcta": false
+            },
+            {
+                "texto": "Los determinantes no médicos de la salud.",
+                "correcta": false
+            },
+            {
+                "texto": "El nuevo modelo de cuidados de larga duración. Atención a la dependencia y la discapacidad.",
+                "correcta": false
+            },
+            {
+                "texto": "La vulnerabilidad epidemiológica.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "pregunta": "La filosofía que inspira la Estrategia de Atención Sociosanitaria de Euskadi 2021- 2024 se sustenta en un conjunto de valores éticos consustanciales a la atención sociosanitaria, entre los que se incluyen (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Universalidad.",
+                "correcta": false
+            },
+            {
+                "texto": "Transparencia",
+                "correcta": true
+            },
+            {
+                "texto": "Autonomía",
+                "correcta": false
+            },
+            {
+                "texto": "Corresponsabilidad.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "pregunta": "Entre los resultados esperables del proyecto “Aprobación jurídica y despliegue de la gobernanza Sociosanitaria”, situado en el epígrafe “Gobernanza Sociosanitaria” de la Estrategia se incluyen (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Decreto de Gobernanza Sociosanitaria.",
+                "correcta": false
+            },
+            {
+                "texto": "Convenios para la compartición de recursos sociosanitarios entre entidades públicas.",
+                "correcta": true
+            },
+            {
+                "texto": "Formalización jurídica de la Comisión Sociosanitaria de Comités de Ética de Euskadi.",
+                "correcta": false
+            },
+            {
+                "texto": "Plan de comunicación para la difusión de la regulación de estructuras, recursos e instrumentos recogidos en el Decreto de Gobernanza Sociosanitaria.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "pregunta": "Entre los resultados esperables del proyecto “Marco compartido de financiación Sociosanitaria”, incluido en el epígrafe “Gobernanza Sociosanitaria” de la Estrategia se incluyen (señálese la respuesta correcta):",
+        "respuestas": [
+            {
+                "texto": "Decreto de Gobernanza Sociosanitaria.",
+                "correcta": false
+            },
+            {
+                "texto": "Convenios para la contratación de recursos sociosanitarios entre entidades públicas.",
+                "correcta": true
+            },
+            {
+                "texto": "Aprobación de la normativa sobre donaciones privadas para sostenibilidad de las entidades públicas sanitarias.",
+                "correcta": false
+            },
+            {
+                "texto": "Plan de comunicación para la difusión de la regulación de estructuras, recursos e instrumentos recogidos en el Decreto de Gobernanza Sociosanitaria.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "pregunta": "Los resultados esperables del proyecto “Historia Sociosanitaria Electrónica”, descritos en el epígrafe “Interoperabilidad Sociosanitaria” de la Estrategia incluyen (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Adecuación de los requisitos de tratamiento de los datos a lo dispuesto en el Espacio Europeo de Datos de Salud.",
+                "correcta": true
+            },
+            {
+                "texto": "Estandarización de contenidos y mensajes para el intercambio de información sociosanitaria.",
+                "correcta": false
+            },
+            {
+                "texto": "Catálogo de los servicios de intercambios de datos sociosanitarios que sustituyen a los certificados en papel, entre las Administraciones Públicas vascas.",
+                "correcta": false
+            },
+            {
+                "texto": "Mapa de agentes y sistemas que comparte información asistencial como soporte de una dinámica de trabajo conjunto y coordinado de profesionales de los sistemas sociales y de salud.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "pregunta": "El objetivo proyecto “Cuadro de mandos integral”, como viene señalado en el epígrafe “Interoperabilidad Sociosanitaria” de la Estrategia es:",
+        "respuestas": [
+            {
+                "texto": "Incorporar la atención sociosanitaria en los cuadros de mandos y procesos estadísticos de las instituciones vasca implicadas en la coordinación.",
+                "correcta": false
+            },
+            {
+                "texto": "Incorporar a todos los agentes responsables de la Ateción Socisanitaria en la toma de decisiones conjuntas.",
+                "correcta": false
+            },
+            {
+                "texto": "Promover la toma de decisiones basadas en datos.",
+                "correcta": true
+            },
+            {
+                "texto": "Promover la toma de decisiones automatizadas en la Atención Sociosanitaria.",
+                "correcta": false
+            }
+        ]
     }
 ]
