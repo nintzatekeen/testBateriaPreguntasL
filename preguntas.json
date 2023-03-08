@@ -2198,5 +2198,225 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 101,
+        "pregunta": "Las acciones a emprender en proyecto “Osabide en residencias”, situado dentro del epígrafe “Interoperabilidad Sociosanitaria” de la Estrategia incluyen las siguientes (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Formación y soporte a profesionales sanitarios de las residencias.",
+                "correcta": false
+            },
+            {
+                "texto": "Identificar necesidades de mejoras funcionales en Osabide para facilitar la atención a personas de los centros residenciales y de día.",
+                "correcta": false
+            },
+            {
+                "texto": "Promover la gestión automatizada de la toma de decisiones a través de la incorporación de nuevas tecnologías a los centros residenciales.",
+                "correcta": true
+            },
+            {
+                "texto": "Atender nuevos casos de centros que soliciten acceso a Osabide:",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "pregunta": "Las acciones a emprender en el proyecto “Decreto para el desarrollo de la interoperabilidad sociosanitaria”, situado en el epígrafe “Interoperabilidad Sociosanitaria” de la Estrategia incluyen (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Creación de un grupo de trabajo interinstitucional para la elaboración del decreto.",
+                "correcta": false
+            },
+            {
+                "texto": "Presentación y aprobación por parte de la dirección general de Osakidetza.",
+                "correcta": true
+            },
+            {
+                "texto": "Incorporación del modelo de Gobernanza TI sociosanitaria.",
+                "correcta": false
+            },
+            {
+                "texto": "Validación y posterior aprobación por parte de Servicios Jurídicos de Gobierno Vasco.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "pregunta": "Las acciones a emprender en el proyecto “Definición de un marco coordinado de prevención sociosanitaria”, situada en epígrafe “Prevención Sociosanitaria” de la Estrategia incluyen (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Coordinar políticas y actuaciones en materia de desigualdades sociales en salud, sesgos, y promoción de la equidad en la atención sociosanitaria.",
+                "correcta": false
+            },
+            {
+                "texto": "Coordinar políticas y actuaciones en materia de promoción sociosanitaria: envejecimiento activo; inclusión social; igualdad; solidaridad intergeneracional; promoción de la autonomía; accesibilidad; alfabetización digital, etc.",
+                "correcta": false
+            },
+            {
+                "texto": "Coordinar políticas y actuaciones en materia de prevención sociosanitaria: violencia de género; maltrato infantil; malos tratos a personas mayores; soledad no deseada y aislamiento social, etc.).",
+                "correcta": false
+            },
+            {
+                "texto": "Coordinar la construcción e introducción de herramientas capaces de detectar el riesgo sanitario.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "pregunta": "Las acciones a emprender en el proyecto “Instrumento para la detección del riesgo sociosanitario”, situado en el epígrafe “Prevención Sociosanitaria” de la Estrategia incluyen (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Crear un grupo de trabajo con profesionales sociales y sanitarios expertos/as en la materia.",
+                "correcta": false
+            },
+            {
+                "texto": "Proposición de los ítems a considerar para la detección del riesgo sociosanitario y construcción de una propuesta conjunta del prototipo del instrumento",
+                "correcta": false
+            },
+            {
+                "texto": "Pilotaje para la valoración de la funcionalidad del instrumento y el perfeccionamiento del mismo y presentación de la propuesta de consenso a la Consejería de Salud del Gobierno Vasco.",
+                "correcta": true
+            },
+            {
+                "texto": "Aprobación y puesta en marcha del instrumento.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "pregunta": "Los resultados esperables del proyecto “Despliegue de la atención primaria Sociosanitaria”, incluido en el epígrafe “Atención Sociosanitaria” de la Estrategia incluyen (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Guía para la atención hospitalaria a pacientes vulnerables (Tool kit sociosanitario)",
+                "correcta": true
+            },
+            {
+                "texto": "Mapa de referentes sociosanitarios y sociosanitarias.",
+                "correcta": false
+            },
+            {
+                "texto": "Informe de resultados del estado del arte de los protocolos y procedimientos de coordinación sociosanitaria",
+                "correcta": false
+            },
+            {
+                "texto": "Implantación de un proyecto piloto de desarrollo de APSS, en el ámbito sociosanitario de influencia de cada OSI y catálogo de buenas prácticas basado en el análisis de los proyectos piloto desarrollados en cada OSI.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "pregunta": "Las acciones a emprender en el proyecto “Actuaciones en diferentes colectivos diana sociosanitarios”, situado en el epígrafe “Atención Sociosanitaria” de la Estrategia incluyen (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Avanzar en la implementación de medidas de control automatizado de la actividad social de personas en situación de exclusión y vulnerabilidad social.",
+                "correcta": true
+            },
+            {
+                "texto": "Impulsar de la accesibilidad de personas con discapacidad en el sistema sanitario y en el social, mediante acciones de sensibilización y no discriminación.",
+                "correcta": false
+            },
+            {
+                "texto": "Promover la monitorización y sensibilización de las necesidades que presentan las personas en situación de desprotección a partir de la utilización de los instrumentos pertinentes.",
+                "correcta": false
+            },
+            {
+                "texto": "Favorecer la atención domiciliaria de las personas en situación de dependencia en base a nuevos modelos sostenibles de prevención, atención y cuidados.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "pregunta": "Los resultados esperables del proyecto “Atención temprana y el desarrollo del ámbito Sociosanitaria-educativa”, incluido en el epígrafe “Atención Sociosanitaria” de la Estrategia incluyen (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Implementación de acciones preventivas.",
+                "correcta": false
+            },
+            {
+                "texto": "Redacción de memorias bianuales relacionadas con estas políticas.",
+                "correcta": true
+            },
+            {
+                "texto": "Impulso de la coordinación sociosanitaria-educativa.",
+                "correcta": false
+            },
+            {
+                "texto": "Creación de la comisión sociosanitaria-educativa de Euskadi.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "pregunta": "Los resultados esperables del proyecto “Portal de Atención Sociosanitaria, generación y difusión del conocimiento”, situado en el epígrafe “I+D+i Sociosanitaria” de la Estrategia de Atención Sociosanitaria de Euskadi 2021-2024 incluyen los siguientes (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Informe de actividad y posicionamiento del Portal de Atención Sociosanitaria.",
+                "correcta": false
+            },
+            {
+                "texto": "Boletín de Atención Sociosanitaria de Euskadi.",
+                "correcta": false
+            },
+            {
+                "texto": "Mapa actualizado de Recursos Sociosanitarios de Euskadi.",
+                "correcta": false
+            },
+            {
+                "texto": "Información actualizada referida al tratamiento de datos desarrollados por parte de los diferentes organismos implicados en la Atención Sociosanitaria de Euskadi.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "pregunta": "Los resultados esperables en el proyecto “Nodo de referencia sobre políticas e iniciativas en I+D+i Sociosanitaria, situado en el epígrafe “I+D+i Sociosanitaria” de la Estrategia incluyen (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Informe de actividad y posicionamiento del Portal de Atención Sociosanitaria.",
+                "correcta": true
+            },
+            {
+                "texto": "Intercambios de información entre agentes y entidades referentes sobre políticas e iniciativas en I+D+i sociosanitarias.",
+                "correcta": false
+            },
+            {
+                "texto": "Informe sobre políticas e iniciativas en I+D+i sociosanitaria.",
+                "correcta": false
+            },
+            {
+                "texto": "Publicación de información relativa a políticas e iniciativas en I+D+i sociosanitaria en el Portal de Atención Sociosanitaria.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "pregunta": "Las acciones a emprender en el proyecto “Nodo de referencia sobre políticas e iniciativas en I+D+i Sociosanitaria, situado en el epígrafe “I+D+i Sociosanitaria” de la Estrategia de Atención Sociosanitaria de Euskadi 2021-2024 incluyen las siguientes (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Promover el intercambio de información entre agentes y entidades referentes sobre políticas e iniciativas en I+D+i sociosanitarias.",
+                "correcta": false
+            },
+            {
+                "texto": "Editar y difundir el Boletín de Atención Sociosanitaria de Euskadi.",
+                "correcta": true
+            },
+            {
+                "texto": "Hacer accesible al conjunto del ecosistema sociosanitario la información relativa a políticas e iniciativas en I+D+i sociosanitaria en el Portal de Atención Sociosanitaria.",
+                "correcta": false
+            },
+            {
+                "texto": "Identificar iniciativas de investigación aplicada sociosanitaria.",
+                "correcta": false
+            }
+        ]
     }
 ]
