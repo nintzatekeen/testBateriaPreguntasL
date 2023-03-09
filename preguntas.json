@@ -1761,7 +1761,7 @@
     },
     {
         "id": 81,
-        "pregunta": "Entre los objetivos de la L10. Seguridad en el proceso asistencial gestación-partopuerperio de la Estrategia de seguridad del paciente 2020 se encuentra (señálese el que NO PROCEDE):",
+        "pregunta": "Entre los objetivos de la L10. Seguridad en el proceso asistencial gestación-parto-puerperio de la Estrategia de seguridad del paciente 2020 se encuentra (señálese el que NO PROCEDE):",
         "respuestas": [
             {
                 "texto": "Incrementar la Seguridad del proceso asistencial gestación, parto, puerperio y recién nacido en un entorno de seguridad para minimizar los posibles eventos adversos impulsando y activando la fisiología del proceso gestación, parto, puerperio.",
@@ -2416,6 +2416,226 @@
             {
                 "texto": "Identificar iniciativas de investigación aplicada sociosanitaria.",
                 "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "pregunta": "Los resultados esperables del proyecto “Promoción de proyectos de innovación e investigación desde las bases del Ecosistema Sociosanitario”, incluido en el epígrafe “I+D+i Sociosanitaria” de la Estrategia incluyen (señálese la respuesta INCORRECTA):",
+        "respuestas": [
+            {
+                "texto": "Informe sobre proyectos de base en materia de I+D+i sociosanitaria.",
+                "correcta": false
+            },
+            {
+                "texto": "Metodología de evaluación de proyectos sociosanitarios de base y definición de criterios de extensión y escalabilidad.",
+                "correcta": false
+            },
+            {
+                "texto": "Informe de utilización de datos (personales y no personales) para la evaluación de la toma de decisiones en el ámbito sociosanitario.",
+                "correcta": true
+            },
+            {
+                "texto": "Informe de evaluación de proyectos sociosanitarios de base y propuesta de escalabilidad.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "pregunta": "Entre los principios que rigen el proceso de normalización del euskera en Osakidetza se enumeran los siguientes:",
+        "respuestas": [
+            {
+                "texto": "El respecto a los derechos lingüísticos de las personas.",
+                "correcta": false
+            },
+            {
+                "texto": "La empatía y la comunicación en la lengua de la persona usuaria como garantía de calidad del servicio.",
+                "correcta": false
+            },
+            {
+                "texto": "La progresividad en la fijación de los objetivos.",
+                "correcta": false
+            },
+            {
+                "texto": "Todas las anteriores respuestas son correctas.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "pregunta": "Señale la respuesta que NO es correcta. Conforme al III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028, constituyen objetivos en el ámbito del sistema de gestión de la normalización lingüística:",
+        "respuestas": [
+            {
+                "texto": "Garantizar el uso del euskera en la comunicación corporativa",
+                "correcta": true
+            },
+            {
+                "texto": "Ampliar y distribuir adecuadamente el liderazgo del plan de euskera entre las diferentes direcciones.",
+                "correcta": false
+            },
+            {
+                "texto": "Implementar el plan en todas las unidades a través de sus mandos intermedios.",
+                "correcta": false
+            },
+            {
+                "texto": "Seguir progresando en las medidas que favorecen el aumento de la plantilla bilingüe.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "pregunta": "Tal y como dispone el III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028:",
+        "respuestas": [
+            {
+                "texto": "La rotulación fija, tanto interna como externa, en general ha de estar en las dos lenguas oficiales dando prioridad al euskera.",
+                "correcta": true
+            },
+            {
+                "texto": "Solo la rotulación fija externa en general ha de estar en las dos lenguas oficiales dando prioridad al euskera.",
+                "correcta": false
+            },
+            {
+                "texto": "Solo la rotulación fija interna en general ha de estar en las dos lenguas oficiales dando prioridad al euskera.",
+                "correcta": false
+            },
+            {
+                "texto": "La rotulación fija, tanto interna como externa, debe aparecer únicamente en euskera.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "pregunta": "El III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028 establece respecto a los mensajes audiovisuales que:",
+        "respuestas": [
+            {
+                "texto": " Deben emitirse en la lengua que decidan las personas responsable de las unidades que utilizan estos sistemas audiovisuales.",
+                "correcta": false
+            },
+            {
+                "texto": "Deben emitirse en las dos lenguas oficiales, primero en castellano y luego en euskera",
+                "correcta": false
+            },
+            {
+                "texto": "Deben emitirse en las dos lenguas oficiales, primero en euskera y luego en castellano.",
+                "correcta": true
+            },
+            {
+                "texto": "Deben emitirse en una de las dos lenguas oficiales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "pregunta": "Respecto a las páginas Web de Osakidetza señale cuál de las siguientes repuestas NO es correcta:",
+        "respuestas": [
+            {
+                "texto": "En las intranet, extranet y otros sitios web de Osakidetza las personas usuarias deben tener garantizada la navegación y el acceso a toda la información en las dos lenguas oficiales.",
+                "correcta": false
+            },
+            {
+                "texto": "El personal administrador de los sitios web nunca publicarán textos o contenidos que no estén en las dos lenguas oficiales.",
+                "correcta": true
+            },
+            {
+                "texto": "Al acceder por primera vez a una página web de Osakidetza, la página de inicio se mostrará por defecto en euskera.",
+                "correcta": false
+            },
+            {
+                "texto": "Las personas usuarias de los sitios web de Osakidetza deberán tener fácil acceso a los apartados sobre normalización del euskera en la entidad.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "pregunta": "Señale la respuesta correcta:",
+        "respuestas": [
+            {
+                "texto": "Por aplicación de la Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales no puede constar en los datos personales de cada paciente de Osakidetza su idioma de preferencia para las comunicaciones con Osakidetza.",
+                "correcta": false
+            },
+            {
+                "texto": "El signo azul con la letra e indica que el paciente no tiene competencia para comunicarse en un idioma que no sea el euskera para las comunicaciones orales con Osakidetza.",
+                "correcta": false
+            },
+            {
+                "texto": "En los datos personales de cada paciente, se registrará su idioma de preferencia para las comunicaciones orales con Osakidetza .",
+                "correcta": true
+            },
+            {
+                "texto": "A las personas que elijan el euskera como lengua prioritaria en sus comunicaciones con Osakidetza solo se les deberá ofrecer servicios en euskera.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "pregunta": "En atención al III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028, señale la respuesta correcta:",
+        "respuestas": [
+            {
+                "texto": "“Aukeratu zeure hizkuntza/Elige tu lengua” es el lema de la campaña de activación del registro de la lengua preferente de cada paciente llevada a cabo en 2017.",
+                "correcta": true
+            },
+            {
+                "texto": "Se atribuye a todas las direcciones y gerencias de Osakidetza la responsabilidad de realizar la campaña con el lema “Aukeratu zeure hizkuntza/Elige tu lengua”.",
+                "correcta": false
+            },
+            {
+                "texto": "“Aukeratu zeure hizkuntza/Elige tu lengua” es el lema de la campaña de activación del registro de la lengua preferente de cada paciente que realizará Osakidetza durante el primer año de planificación.",
+                "correcta": false
+            },
+            {
+                "texto": "“Aukeratu zeure hizkuntza/Elige tu lengua” es el lema de la campaña de activación del registro de la lengua preferente de cada paciente que realizará Osakidetza durante el tercer año de planificación.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "pregunta": "El III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2028 contempla que tanto en los servicios de recepción y admisión, como en las unidades asistenciales y administrativas a toda la ciudadanía vascohablante debe garantizarse:",
+        "respuestas": [
+            {
+                "texto": " La recepción en euskera.",
+                "correcta": true
+            },
+            {
+                "texto": "La recepción en euskera solo cuando la comunicación oral con pacientes y personas usuarias sea de modo presencial.",
+                "correcta": false
+            },
+            {
+                "texto": "La recepción en euskera solo cuando la comunicación con pacientes y personas usuarias sea telefónicamente.",
+                "correcta": false
+            },
+            {
+                "texto": "La recepción en euskera solo por las y los empleados que sepan en euskera.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "pregunta": "Siguiendo lo previsto en el III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2018:",
+        "respuestas": [
+            {
+                "texto": "Toda la documentación estándar deberá siempre entregarse a pacientes y personas usuarias en las dos lenguas oficiales.",
+                "correcta": false
+            },
+            {
+                "texto": "A cada paciente se le entregará su documentación clínica siempre y en todo caso en ambas lenguas.",
+                "correcta": false
+            },
+            {
+                "texto": "Toda la documentación estándar deberá siempre editarse e imprimirse en una única hoja en las dos lenguas oficiales.",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguna de las anteriores respuestas es correcta.",
+                "correcta": true
             }
         ]
     }
