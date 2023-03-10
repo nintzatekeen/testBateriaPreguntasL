@@ -2638,5 +2638,247 @@
                 "correcta": true
             }
         ]
+    },
+    {
+        "id": 121,
+        "pregunta": "En los escritos individualizados de respuesta a solicitudes y reclamaciones de pacientes o personas usuarias de Osakidetza se utilizará:",
+        "respuestas": [
+            {
+                "texto": "La lengua utilizada por cada ciudadano o ciudadana.",
+                "correcta": true
+            },
+            {
+                "texto": "Siempre el euskera como lengua preferente.",
+                "correcta": false
+            },
+            {
+                "texto": "Siempre las dos lenguas oficiales independientemente de la lengua utilizada por cada ciudadano o ciudadana.",
+                "correcta": false
+            },
+            {
+                "texto": "Ambas lenguas oficiales, siendo los escritos contestados primero en euskera y luego en castellano.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "pregunta": "Siguiendo lo previsto en el III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2018, señale la respuesta que NO es correcta:",
+        "respuestas": [
+            {
+                "texto": "Se pondrá a disposición del personal bilingüe que lo desee diferentes elementos identificativos portadores del circulo azul con la letra e, signo que invita a relacionarse en euskera.",
+                "correcta": false
+            },
+            {
+                "texto": "El signo azul y la letra e solo se utilizará para la identificación individual del personal bilingüe.",
+                "correcta": true
+            },
+            {
+                "texto": "En los centros de salud, consultorios y unidades hospitalarias, deberá estar colocado, de modo visible, el cartel que explica a las personas usuarias el significado del signo identificativo con la letra e.",
+                "correcta": false
+            },
+            {
+                "texto": "Se estudiará introducir una variante del círculo azul con la letra e para el personal dispuesto a que le hablen en euskera pero que muestra dificultades para expresarse en ciertas situaciones.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "pregunta": "En atención a lo previsto en el III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2018 en todos los centros de atención primaria ha de ponerse en marcha un procedimiento para que, en la medida de las posibilidades, se propongan servicios en euskera a las y los pacientes que hayan registrado esta lengua como preferente y que aún reciban los citados servicios en castellano. Señale a qué servicios se refiere el citado Plan:",
+        "respuestas": [
+            {
+                "texto": "Medicina familiar, pediatría, enfermería y salud mental.",
+                "correcta": false
+            },
+            {
+                "texto": "Pediatría, medicina familiar y salud mental.",
+                "correcta": false
+            },
+            {
+                "texto": "Medicina familiar, pediatría, enfermería y matrona.",
+                "correcta": true
+            },
+            {
+                "texto": "Todas las anteriores respuestas son correctas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "pregunta": "Con relación a las quejas relacionadas con el uso de las lenguas oficiales en Osakidetza, señale la respuesta que NO es correcta:",
+        "respuestas": [
+            {
+                "texto": "La dirección responsable de las acciones previstas con relación a las quejas relaciones con el uso de las lenguas oficiales en Osakidetza es la Dirección de Recursos Humanos",
+                "correcta": false
+            },
+            {
+                "texto": "En los Servicios de Atención al Paciente y Usuario (SAPU) quedarán registradas las quejas relacionadas con el uso de las lenguas oficiales.",
+                "correcta": false
+            },
+            {
+                "texto": "Las quejas relacionadas con el uso de las lenguas oficiales serán gestionadas por el SAPU y por la persona o personas responsables del servicio objeto de la queja.",
+                "correcta": true
+            },
+            {
+                "texto": "Para mejorar la gestión y seguimiento de las quejas, Osakidetza acordará un protocolo con las entidades que trabajan en el ámbito de los derechos lingüísticos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "pregunta": "Conforme al III Plan de Normalización del Uso del Euskera en Osakidetza 2022- 2018 en las relaciones con empresas proveedoras, entidades financieras y organismos privados:",
+        "respuestas": [
+            {
+                "texto": "Se designarán interlocutores o interlocutoras vasco-hablantes y se notificará el deseo de Osakidetza de relacionarse en euskera.",
+                "correcta": true
+            },
+            {
+                "texto": "En la comunicación escrita siempre debe utilizarse las dos lenguas oficiales.",
+                "correcta": false
+            },
+            {
+                "texto": "Osakidetza solicitará a las entidades proveedoras que sus productos que tengan como personas destinatarias a profesionales de Osakidetza estén en euskera.",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguna de las anteriores respuestas es correcta.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "pregunta": "La Dirección General de Osakidetza realizará una comunicación interna de cara a conocer el registro de la lengua preferente de cada profesional, explicar el modo de registrar la lengua preferente y animar al personal vascohablante a optar por el euskera:",
+        "respuestas": [
+            {
+                "texto": "Una vez cada seis meses.",
+                "correcta": false
+            },
+            {
+                "texto": "Una vez al año.",
+                "correcta": true
+            },
+            {
+                "texto": "Cada vez que haya una nueva contratación.",
+                "correcta": false
+            },
+            {
+                "texto": "El III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2018 no contempla esta acción.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "pregunta": "Conforme al III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2018:",
+        "respuestas": [
+            {
+                "texto": "En los casos de los mensajes SMS que se envían a los teléfonos móviles de personas trabajadoras o candidatas, estarán escritos en las dos lenguas oficiales, primero en castellano y luego en euskera.",
+                "correcta": false
+            },
+            {
+                "texto": "Los escritos individualizados de respuesta a solicitudes y reclamaciones de las personas trabajadoras deberán redactarse en las dos lenguas oficiales.",
+                "correcta": false
+            },
+            {
+                "texto": "Osakidetza ha de garantizar que la información y los servicios ofrecidos tanto al personal empleado como a personas candidatas a través de las tecnologías de la comunicación estén en las dos lenguas oficiales, con el fin de que cada persona haga uso de la lengua de su preferencia.",
+                "correcta": true
+            },
+            {
+                "texto": "Las informaciones y comunicaciones no personalizadas dirigidas al personal deberán redactarse en las dos lenguas oficiales y se dará prioridad al castellano.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "pregunta": "- Como contempla el III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2018:",
+        "respuestas": [
+            {
+                "texto": "En puestos de Jefatura y responsabilidad, en los servicios de prioridad 2, se asignará fecha de preceptividad siempre que el porcentaje de fechas mínimas del servicio sea el 40% o superior.",
+                "correcta": false
+            },
+            {
+                "texto": "En puestos de Jefatura y responsabilidad, en los servicios de prioridad 2, se asignará fecha de preceptividad siempre que el porcentaje de fechas mínimas del servicio sea el 50% o superior.",
+                "correcta": true
+            },
+            {
+                "texto": "En los servicios de prioridad 2 se asignará fecha de preceptividad a los puestos vacantes por jubilación, incapacidad absoluta o fallecimiento de la persona titular cuando el porcentaje mínimo de fechas de preceptividad que corresponde al servicio sea el 50% o superior.",
+                "correcta": false
+            },
+            {
+                "texto": "Osakidetza realizará al menos una convocatoria anual de acreditación de perfiles lingüísticos de acuerdo a lo establecido en el Decreto 67/2003.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "pregunta": "Señale cuál de las siguientes afirmaciones NO es correcta, respecto al certificado de calidad Bikain en el ámbito de Osakidetza:",
+        "respuestas": [
+            {
+                "texto": "El objetivo es alcanzar los 400 puntos en las zonas sociolingüísticas C y D.",
+                "correcta": false
+            },
+            {
+                "texto": "El objetivo es alcanzar los 500 puntos en las zonas sociolingüísticas A y B.",
+                "correcta": false
+            },
+            {
+                "texto": "El objetivo es alcanzar los 400 puntos en las zonas sociolingüísticas A y B.",
+                "correcta": true
+            },
+            {
+                "texto": "Las organizaciones de servicios de Osakidetza que se presenten de modo integral al certificado de calidad en gestión lingüística Bikain lo deberán hacer al menos una vez durante el período de planificación.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "pregunta": "Osakidetza realizará dos evaluaciones generales del plan de euskera:",
+        "respuestas": [
+            {
+                "texto": "La primera el tercer año del período de planificación, y la segunda, el sexto año.",
+                "correcta": true
+            },
+            {
+                "texto": "La primera el segunda año del período de planificación, y la segunda, el sexto año.",
+                "correcta": false
+            },
+            {
+                "texto": "La primera el tercer año del período de planificación, y la segunda, el sexto año y será una evaluación cualitativa.",
+                "correcta": false
+            },
+            {
+                "texto": "La primera el segunda año del período de planificación, y la segunda, el sexto año y será una evaluación cuantitativa fundamentada en los indicadores del plan.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "pregunta": "Tal y como contempla el III Plan de Normalización del Uso del Euskera en Osakidetza 2022-2018 todas las organizaciones de Osakidetza deberán contar con una Comisión de Seguimiento del plan de euskera:",
+        "respuestas": [
+            {
+                "texto": "Que estará integrada como máximo por 15 participantes",
+                "correcta": false
+            },
+            {
+                "texto": "Que se reunirá al menos una vez al año.",
+                "correcta": false
+            },
+            {
+                "texto": "Que estará compuesta por representantes de la Dirección General y de diversas organizaciones.",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguna de las anteriores respuestas es correcta.",
+                "correcta": true
+            }
+        ]
     }
 ]
