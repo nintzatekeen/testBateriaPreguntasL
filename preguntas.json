@@ -2711,7 +2711,7 @@
         "respuestas": [
             {
                 "texto": "La dirección responsable de las acciones previstas con relación a las quejas relaciones con el uso de las lenguas oficiales en Osakidetza es la Dirección de Recursos Humanos",
-                "correcta": false
+                "correcta": true
             },
             {
                 "texto": "En los Servicios de Atención al Paciente y Usuario (SAPU) quedarán registradas las quejas relacionadas con el uso de las lenguas oficiales.",
@@ -2719,7 +2719,7 @@
             },
             {
                 "texto": "Las quejas relacionadas con el uso de las lenguas oficiales serán gestionadas por el SAPU y por la persona o personas responsables del servicio objeto de la queja.",
-                "correcta": true
+                "correcta": false
             },
             {
                 "texto": "Para mejorar la gestión y seguimiento de las quejas, Osakidetza acordará un protocolo con las entidades que trabajan en el ámbito de los derechos lingüísticos.",
