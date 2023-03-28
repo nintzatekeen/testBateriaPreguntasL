@@ -1703,7 +1703,7 @@
             },
             {
                 "texto": "Priorizar la reducción del riesgo en poblaciones más vulnerables al efecto de la radiación, como la población pediátrica o las embarazadas.",
-                "correcta": false
+                "correcta": true
             },
             {
                 "texto": "La optimización de la dosis empleada, de tal forma que pueda obtenerse una información diagnóstica suficiente sin que se someta al paciente a una exposición a dosis innecesariamente altas.",
@@ -1711,7 +1711,7 @@
             },
             {
                 "texto": "Sólo dos de las tres respuestas anteriores son correctas.",
-                "correcta": true
+                "correcta": false
             }
         ]
     },
